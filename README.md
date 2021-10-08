@@ -1,5 +1,5 @@
 # DS870-Ap02
-Atividade 2 da disciplina ds870
+Atividade 2 da disciplina ds870 - Gestor Médico
 
 Alunos: 
 - Daniel Elias Delgado - GRR20176303
