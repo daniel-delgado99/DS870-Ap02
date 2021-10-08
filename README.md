@@ -1,5 +1,5 @@
-# DS870-Ap01
-Atividade 1 da disciplina ds870
+# DS870-Ap02
+Atividade 2 da disciplina ds870
 
 Alunos: 
 - Daniel Elias Delgado - GRR20176303
